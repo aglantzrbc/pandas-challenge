@@ -34,12 +34,13 @@ Dependencies -
 
 -- Note: This project assumes the two source .csv files listed above retain their original names and are in a folder labeled "Resources" that is one level below where the Python file resides. If you do not follow this relative placement of the elements,  the the program will not run and the path will need to be updated.
 
-Sources consulted:
+3-CONTRIBUTING: Adam Glantz 571-232-9753 adamglantz@yahoo.com
+
+4-ACKNOWLEDGEMENTS
 
 The work in this assignment is my own, but I consulted with the following while accomplishing it:
     Karishma Sanghvi, a classmate;
     David Harler, Jr., an AskBCS Learning Assistant;
     Author: Ronessa Acquesta: Williamstown, NJ USA, Sept 2017 = https://github.com/racquesta/PyCitySchools
 
-Student: Adam Glantz 571-232-9753 adamglantz@yahoo.com
 20230507pm
