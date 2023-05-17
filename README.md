@@ -37,8 +37,8 @@ Dependencies -
 Sources consulted:
 
 The work in this assignment is my own, but I consulted with the following while accomplishing it:
-    Karishma Sanghvi, a classmate
-    David Harler, Jr., an AskBCS Learning Assistant
+    Karishma Sanghvi, a classmate;
+    David Harler, Jr., an AskBCS Learning Assistant;
     Author: Ronessa Acquesta: Williamstown, NJ USA, Sept 2017 = https://github.com/racquesta/PyCitySchools
 
 Student: Adam Glantz 571-232-9753 adamglantz@yahoo.com
